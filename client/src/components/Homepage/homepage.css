@@ -1,0 +1,29 @@
+.defaultpage {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Bottom left text */
+  .titletext {
+    position: absolute;
+    bottom: 60%;
+    left: 13%;
+    font-size: 100px;
+    font-family: karla;
+    font-weight: bold;
+  }
+
+  .subtext{
+    position: absolute;
+    bottom: 50%;
+    left: 10%;
+    font-size: 30px;
+    font-family: karla;
+  }
+
+  .homepageimg{
+    object-fit: cover;
+    max-height: 100%;
+    max-width: 100%;
+  }

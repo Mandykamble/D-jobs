@@ -1,0 +1,59 @@
+.parentcont{
+    position: relative;
+    text-align: center;
+    
+    width: 95rem;
+   height: 100%;
+}
+
+.parentconti{
+    /* background-image: url(../../utils/jobs1.jpg); */
+
+    /* background-color: antiquewhite;
+    overflow: scroll; */
+    
+    
+    
+}
+
+.text12{
+    
+    top: 17%;
+    color: white;
+    font-size: 50px;
+    font-family: karla;
+    font-weight: 700;
+    left: 37%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.note-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 1500px;
+}
+
+.cardthing{
+    width: 18rem;
+}
+
+.image{
+    filter: brightness(50%);
+}
+
+.card{
+    color: aliceblue;
+    background-color: rgb(28, 27, 28);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 50px;
+    /* overflow: scroll */
+}
+
+#Tital{
+    position:relative;
+    color: black;
+}

@@ -1,0 +1,71 @@
+.main{
+    position: relative;
+}
+.text{
+    position: absolute;
+    color: white;
+    font-family: karla;
+    text-align: center;
+    left: 20%;
+    right: 20%;
+
+    top: 36%;
+    transform: translateY(-50%);
+}
+
+.text2{
+    position: absolute;
+    color: white;
+    font-family: karla;
+    text-align: center;
+    left: 20%;
+    right: 20%;
+
+    top: 84%;
+    transform: translateY(-50%);
+}
+.maintext{
+    position: absolute;
+    color: white;
+    font-family: karla;
+    text-align: center;
+    font-size: 100px;
+    left: 20%;
+    right: 20%;
+    font-weight: 700;
+    top: 15%;
+    transform: translateY(-100%);
+}
+
+.maintext2{
+    position: absolute;
+    color: white;
+    font-family: karla;
+    text-align: center;
+    font-size: 100px;
+    left: 20%;
+    right: 20%;
+    font-weight: 700;
+    top: 72%;
+    transform: translateY(-100%);
+}
+
+.bottomtext{
+    position: absolute;
+    color: white;
+    font-family: karla;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    left: 20%;
+    right: 20%;
+
+    top: 95%;
+    transform: translateY(-100%);
+}
+
+.backimg{
+    max-width: 100%;
+    
+    object-fit: fill;
+}
